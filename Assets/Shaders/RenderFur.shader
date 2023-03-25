@@ -1,4 +1,4 @@
-Shader "Roystan/Grass"
+Shader "FurAndTess"
 {
 	Properties
 	{
